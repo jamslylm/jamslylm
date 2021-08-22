@@ -12,8 +12,8 @@ I'm Jamsly, I'm a full-stack web developer and,
 
 - 👨‍💻 I’m currently working on various project with great ambitions for the future
 - 📚 I’m currently learning Php(web development) and a little bit of Kotlin and Java
-- Stack : LAMP
-- Skills :
+- 🧰 Stack : LAMP
+- 📚 Skills :
   - Html
   - Css
   - JavaScript(DOM)
