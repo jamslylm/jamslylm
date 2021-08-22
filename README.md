@@ -22,7 +22,7 @@ I'm Jamsly, I'm a full-stack web developer and,
   - MySQL and MariaDB
   - Java
 - 📫 How to reach me: 
-  - [Email](mailto:mjamsly98@gmail.com)
+  - Email : [mjamsly98@gmail.com](mailto:mjamsly98@gmail.com)
   - Whatsapp: [+50944676432](tel:50944676432)
   - Phone: [+50933690829](tel:50933690829)
 - 👨 Pronouns: he/him/his
