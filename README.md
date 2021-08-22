@@ -24,7 +24,7 @@ I'm Jamsly, I'm a full-stack web developer and,
 - 📫 How to reach me: 
   - Email: mjamsly98@gmail.com
   - whatsapp: +50944676432
-  - Phone: +50933690829
+  - Phone: <a href="tel:+50933690829">+50933690829</a>
 - 👨 Pronouns: he/him/his
 <!-- ⚡ Fun fact: ...-->
 
