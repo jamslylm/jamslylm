@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![GitHub followers](https://img.shields.io/github/followers/jamslylm?style=social)]()
+[![Years Badge](https://badges.pufler.dev/years/jamslylm)]()
+[![Repos Badge](https://badges.pufler.dev/repos/jamslylm)]()
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/jamslylm)]()
+[![Visits Badge](https://badges.pufler.dev/visits/jamslylm/JLessCode)]()
+[![Twitter Follow](https://img.shields.io/twitter/follow/jamslylm?style=social)]()
+
 <!--
 **jamslylm/jamslylm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
