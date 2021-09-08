@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![GitHub followers](https://img.shields.io/github/followers/jamslylm?style=social)]()
 [![Years Badge](https://badges.pufler.dev/years/jamslylm)]()
 [![Repos Badge](https://badges.pufler.dev/repos/jamslylm)]()
@@ -15,10 +13,13 @@
  💬 Ask me about ...
 -->
 
+### Hi there 👋
+
 I'm Jamsly, I'm a full-stack web developer and,
 
-- 👨‍💻 I’m currently working on various project with great ambitions for the future
-- 📚 I’m currently learning Php(web development) and a little bit of Kotlin and Java
+- 👨‍💻 I’m currently working on various project with big ambitions for the future
+- ✅ Php and Java developer
+- 📚 I’m currently learning node.js and a few of Kotlin
 - 🧰 Stack : LAMP
 - 📚 Skills :
   - Html
