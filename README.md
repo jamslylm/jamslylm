@@ -15,7 +15,7 @@
 
 ### Hi there 👋
 
-I'm Jamsly, I'm a full-stack web developer and,
+I'm Jamsly, Software engineer, linux addicted, space lover,
 
 - 👨‍💻 I’m currently working on various project with big ambitions for the future
 - ✅ Php and Java developer
@@ -24,7 +24,7 @@ I'm Jamsly, I'm a full-stack web developer and,
 - 📚 Skills :
   - Html
   - Css
-  - JavaScript(DOM)
+  - JavaScript
   - Php
   - Sql
   - MySQL and MariaDB
