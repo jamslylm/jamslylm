@@ -32,7 +32,7 @@ I'm Jamsly, Software engineer, linux addicted, space lover,
 - 📫 How to reach me: 
   - Email : [mjamsly98@gmail.com](mailto:mjamsly98@gmail.com)
   - Whatsapp: [+50944676432](tel:50944676432)
-  - Phone: [+50933690829](tel:50944676432)
+  - Phone: [+50944676432](tel:50944676432)
 - 👨 Pronouns: he/him/his
 <!-- ⚡ Fun fact: ...-->
 
