@@ -122,7 +122,7 @@
 
 
 ### Spotify listening  
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ek56x7biya3dv7xdbtglgbqteq&cover_image=true&theme=default)  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314ti3cqf47afyavmgwd2xxhww5i&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <br/>  
 
