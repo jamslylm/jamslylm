@@ -21,6 +21,9 @@
 <br/>  
 
 
+<a href="https://app.daily.dev/jamslylm"><img src="https://github.com/jamslylm/jamslylm/blob/main/devcard.svg" width="400" alt="Jamsly MINÉ's Dev Card"/></a>
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
